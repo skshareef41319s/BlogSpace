@@ -72,17 +72,6 @@ npm add react-router-dom@latest
 npm run dev
 ```
 
-### 4. Build for Production
-
-```bash
-npm run build
-```
-
-### 5. Preview Production Build
-
-```bash
-npm run preview
-```
 
 ---
 
@@ -107,34 +96,6 @@ Want to add features? The codebase is modular and well-typed.
 
 ---
 
-## 🎨 Screenshots
-
-<!-- Add screenshots here -->
-| Welcome Screen | Blog Feed | Profile Page | Dark Mode |
-|:---:|:---:|:---:|:---:|
-| ![](public/screens/welcome.png) | ![](public/screens/feed.png) | ![](public/screens/profile.png) | ![](public/screens/darkmode.png) |
-
----
-
-## 🏆 Contributing
-
-Pull requests, feature suggestions, and bug reports are welcome!  
-Follow conventional commit messages and ensure new code includes relevant tests or storybook stories if UI.
-
-```bash
-# Example workflow
-git checkout -b feature/my-awesome-feature
-npm run dev
-# Make changes, commit, push, open PR
-```
-
----
-
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
 
 ## 🙏 Acknowledgements
 
@@ -146,11 +107,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-## 📬 Contact
-
-For questions and support, open an issue or reach out via [GitHub Discussions](https://github.com/skshareef41319s/BlogSpace/discussions).
-
----
 
 **BlogSpace** – Your premium, instant, zero-backend blog platform.  
 Craft. Share. Connect. 🚀

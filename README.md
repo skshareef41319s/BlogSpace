@@ -1,4 +1,4 @@
-# BlogSpace — Premium React Blog Platform
+# BlogSpace - Premium React Blog Platform
 
 BlogSpace is a frontend-only blogging application built with React, TypeScript, Tailwind CSS, and Vite. It provides a modern, responsive blogging experience entirely in the browser — user data, posts, likes, comments, and themes are persisted in localStorage so no backend is required.
 
